@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 **I’m currently working on** consolidating my knowledge in data analysis
-- 🌱 **I’m currently learning on** tools and and utilities applied to data manipulation
+- 🌱 **I’m currently learning on** tools and utilities applied to data manipulation
 - 👯 **I’m looking to collaborate on** challenging projects and new opportunities
 - 💬 **Ask me about** any project or collaboration we can do together
 - 📫 **How to reach me:** apariciofernandez.d@gmail.com
