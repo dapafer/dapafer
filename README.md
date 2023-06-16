@@ -1,9 +1,7 @@
-### Hi there 👋
+# Hi there! 👋
 
 <!--
-**dapafer/dapafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=6233F7&center=true&vCenter=true&multiline=true&width=435&lines=I'm+David+Aparicio+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
